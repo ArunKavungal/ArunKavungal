@@ -7,14 +7,23 @@ I have a background in IT Support, Application Management Services, SQL, and bac
 
 I enjoy working with data, identifying patterns, solving problems, and translating information into meaningful business insights.
 
+
 ## 🛠️ Technical Skills
 
-- **Query Languages:** SQL
-- **Databases:** Oracle, MySQL
-- **Data Analytics:** Python, Pandas, NumPy
-- **Business Intelligence:** Power BI
-- **Data Handling:** Microsoft Excel
-- **Core Knowledge:** Statistics, Data Visualization, Exploratory Data Analysis
+### Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ## 🚀 What I'm Currently Working On
 
