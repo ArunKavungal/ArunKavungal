@@ -3,9 +3,7 @@
 
 ### Aspiring Data Analyst | SQL | Power BI | Python
 
-I have a background in IT Support, Application Management Services, SQL, and backend operations. I am currently building my expertise in Data Analytics, Business Intelligence, and data visualization.
-
-I enjoy working with data, identifying patterns, solving problems, and translating information into meaningful business insights.
+Data Analyst with a background in IT Support, Application Management Services, and backend operations. Experienced in SQL, Oracle databases, and operational reporting, with hands-on skills in Python, Power BI, and data visualization. Interested in transforming raw data into actionable insights that support business decisions and improve operational efficiency.
 
 
 ## 🛠️ Technical Skills
