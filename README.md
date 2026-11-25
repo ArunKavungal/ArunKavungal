@@ -1,4 +1,4 @@
-
+![Arun Kavungal - Data Analyst](Arun%20Kavungal%20Data%20Analyst%20Banner.png)
 # Hi, I'm Arun Kavungal Aravindakshan 👋
 
 ### Aspiring Data Analyst | SQL | Power BI | Python
